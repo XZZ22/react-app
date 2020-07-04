@@ -8,12 +8,14 @@
     "@testing-library/user-event": "^7.1.2",
     "antd": "^4.4.0",
     "axios": "^0.19.2",
+    "mockjs": "^1.1.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-axios": "^2.0.3",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.0",
     "react-scripts": "3.4.1",
+    "react-transition-group": "^4.4.1",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0"
   },
@@ -39,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "http-proxy-middleware": "^1.0.4",
     "node-sass": "^4.14.1",
     "qs": "^6.9.4",
     "react-router-dom": "^5.2.0"
